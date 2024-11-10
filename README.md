@@ -12,3 +12,5 @@ Wait for the program to find the private key that matches the public address you
 Wait some more
 If the program finds the address you will be prompted with the public address and its corresponding private key
 The program will always save this to a text file within the directory named: foundaddress.txt
+
+Bitcoin donations: bc1phcxvw8289mngxs666yyfyjxz0gjs720huhpa2xytf6q5guvh379sheqv5q
